@@ -147,5 +147,5 @@
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
 <div align="center"> Profile views<br>
-  <img src="https://profile-counter.glitch.me/razak571/count.svg" />
+  <img src="https://profile-counter.glitch.me/razak571/count.svg"  alt="profile-counts"/>
 </div>
