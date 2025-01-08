@@ -49,9 +49,9 @@
 
 <p align="center">
   <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=razak571&show_icons=true&theme=radical" />
+    src="https://github-readme-stats.vercel.app/api?username=razak571&show_icons=true&theme=radical" alt="stats" />
   <img width="49%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=razak571&theme=radical" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=razak571&theme=radical" alt="streak" />
 </p>
 
 <p align="center">
